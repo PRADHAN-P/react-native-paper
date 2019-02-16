@@ -65,7 +65,7 @@ type Props = {
  * import * as React from 'react';
  * import { ToggleButton } from 'react-native-paper';
  *
- * class ToggleButtonExample extends React.Component {
+ * export default class ToggleButtonExample extends React.Component {
  *   state = {
  *     status: 'checked',
  *   };
